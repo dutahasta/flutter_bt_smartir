@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+Project ini bertujuan untuk mengcontroll smart ir pada flutter app. 
 
 This project is a starting point for a Flutter application.
 
